@@ -24,8 +24,8 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.10",
-    "angular-sanitize": "~1.4.10",
+    "angular": "~1.6.4",
+    "angular-sanitize": "~1.6.4",
     "showdown": "~1.2.3"
   }
 }
